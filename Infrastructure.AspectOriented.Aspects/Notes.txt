@@ -1,0 +1,8 @@
+﻿http://markcoleman.tumblr.com/post/7357737503/method-tracing-with-unity-interception
+https://msdn.microsoft.com/en-us/library/dn178466(v=pandp.30).aspx
+
+https://www.youtube.com/watch?v=Q5J_wefLrzA
+
+Unity Interception Extension
+https://dariosantarelli.wordpress.com/2012/09/30/unity-interception-extension/
+

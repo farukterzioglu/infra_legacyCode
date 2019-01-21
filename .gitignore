@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/obj/Debug
+/obj/**
+\obj\Debug
+/obj/Debug
+/obj/*
+/bin
+/Infrastructure/obj/Debug
+/Infrastructure.Application/obj/Debug
+/Infrastructure.WebApps.Common/obj/Debug
+/Infrastructure.Validation.Tests/obj/Debug
+/Infrastructure.Validation/obj/Debug
+/Infrastructure.PluginFramework.PluginManager.Tests/obj/Debug
+/Infrastructure.PluginFramework.PluginManager/obj/Debug
+/Infrastructure.PluginFramework.Core.Tests/obj/Debug
+/Infrastructure.PluginFramework.Core/obj/Debug
+/Infrastructure.Domain/obj/Debug
+/Infrastructure.CrossCutting.IocManager/obj/Debug
+/Infrastructure.Common/obj/Debug
+/Infrastructure.AspectOriented.Tests/obj/Debug
+/Infrastructure.AspectOriented.Aspects/obj/Debug
